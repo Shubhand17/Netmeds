@@ -1,0 +1,90 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/390855/volini_gel_75gm_46854_0_2.jpg",
+        "name": "Volini Gel 75gm",
+        "price": "Rs.208.25",
+        "mrp": "Rs.245.00"
+      },
+      {
+        "id": 2,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/323943/abzorb_dusting_powder_100gm_39756_0_2.jpg",
+        "name": "Absorb Dusting Powder 100mg",
+        "price": "Rs.120.70",
+        "mrp": "Rs.142.00"
+      },
+      {
+        "id": 3,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/827720/abzorb_dusting_powder_50gm_66005_0_2.jpg",
+        "name": "Absorb Dusting Powder 50mg",
+        "price": "Rs.68.00",
+        "mrp": "Rs.80.00"
+      },
+      {
+        "id": 4,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/100424/2baconil_tts10_7mg_patch_7_s_0.jpg",
+        "name": "2baconil TTS10 7mg Patch 7'S",
+        "price": "Rs.520.80",
+        "mrp": "Rs.651.00"
+      },
+      {
+        "id": 5,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/110947/tetmosol_medicated_soap_100_gm_0_1.jpg",
+        "name": "Tetmosol Medicated Soap 100 gm",
+        "price": "Rs.82.80",
+        "mrp": "Rs.92.00"
+      },
+      {
+        "id": 6,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/412720/omnigel_gel_topical_75gm_0.jpg",
+        "name": "Omnigel Gel(Topical) 75gm",
+        "price": "Rs.108.57",
+        "mrp": "Rs.231.00"
+      },
+      {
+        "id": 7,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/412141/itch_guard_cream_20_gm_0.jpg",
+        "name": "Itch Guard + Cream 20gm",
+        "price": "Rs.103.46",
+        "mrp": "Rs.108.90"
+      },
+      {
+        "id": 8,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/388215/volini_spray_100gm_46243_0_1.jpg",
+        "name": "Volini Spray 100gm",
+        "price": "Rs.272.00",
+        "mrp": "Rs.320.00"
+      },
+      {
+        "id": 9,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/847908/ring_guard_plus_cream_20_gm_0.jpg",
+        "name": "Ring Guar Plus Cream 20 gm",
+        "price": "Rs.101.16",
+        "mrp": "Rs.106.48"
+      },
+      {
+        "id": 10,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/915906/maxirich_multivitamin_and_minerals_softgels_10s_0_0.jpg",
+        "name": "Maxirich Multivitamins and Minerals Softgels",
+        "price": "Rs.60.50",
+        "mrp": "Rs.110.00"
+      },
+
+      {
+        "id": 11,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/15180/moov_pain_relief_specialist_cream_50_gm_0.jpg",
+        "name": "Moov Pain Relief Specialist Cream 50gm",
+        "price": "Rs.151.20",
+        "mrp": "Rs.189.00"
+      },
+
+      {
+        "id": 12,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/829100/iodex_body_pain_expert_40_gm_0_1.jpg",
+        "name": "Iodex Body Pain Expert 40 gm",
+        "price": "Rs.150.00",
+        "mrp": "Rs.151.00"
+      }
+    ]
+  }
