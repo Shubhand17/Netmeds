@@ -59,7 +59,7 @@
       {
         "id": 9,
         "image": "https://www.netmeds.com/images/product-v1/150x150/847908/ring_guard_plus_cream_20_gm_0.jpg",
-        "name": "Ring Guar Plus Cream 20 gm",
+        "name": "Ring Guard Plus Cream 20 gm",
         "price": "101.16",
         "mrp": "106.48"
       },
@@ -85,6 +85,21 @@
         "name": "Iodex Body Pain Expert 40 gm",
         "price": "150.00",
         "mrp": "151.00"
+      },
+      {
+        "id": 13,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/15180/moov_pain_relief_specialist_cream_50_gm_0.jpg",
+        "name": "Moov Pain Relief Specialist Cream 500gm",
+        "price": "551.20",
+        "mrp": "589.00"
+      },
+
+      {
+        "id": 14,
+        "image": "https://www.netmeds.com/images/product-v1/150x150/829100/iodex_body_pain_expert_40_gm_0_1.jpg",
+        "name": "Iodex Body Pain Expert 400 gm",
+        "price": "250.00",
+        "mrp": "251.00"
       }
     ]
   }
